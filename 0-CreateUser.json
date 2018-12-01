@@ -1,0 +1,5 @@
+{
+  "path": "users/:type/name/:name",
+  "httpMethod": "GET",
+  "body": ""
+}
